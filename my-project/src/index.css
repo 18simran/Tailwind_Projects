@@ -1,0 +1,4 @@
+.bg-image {
+  background: url("images/night-view.jpg");
+  background-size: cover;
+}
